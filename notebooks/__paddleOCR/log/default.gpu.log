@@ -1,0 +1,7 @@
+index,uuid,driver_version,name,gpu_serial,display_active,display_mode
+0,GPU-88e40dc4-2392-b9fe-e3b4-e6c98756bc22,550.144.03,Tesla T4,1322722081930,Disabled,Enabled
+
+pid,process_name,gpu_uuid,gpu_name,used_memory
+
+index,utilization_gpu,memory_total,memory_used,memory_free,timestamp
+0,0,15360,3,15093,2025/03/09 08:33:11.981

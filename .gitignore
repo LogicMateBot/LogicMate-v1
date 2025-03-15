@@ -1,0 +1,4 @@
+datasets/**/*
+yolov12/**/*
+__yolov12/**/*
+__paddleOCR/**/*

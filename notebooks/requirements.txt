@@ -1,0 +1,22 @@
+torch
+torchvision
+albumentations
+scenedetect<0.7
+easyocr
+opencv-python
+opencv-python-headless
+ffmpeg
+transformers
+lmdb
+pillow
+matplotlib
+seaborn
+scikit-learn
+roboflow
+ultralytics
+supervision
+rapidfuzz
+paddleocr
+imutils==0.5.4
+torchaudio --index-url https://download.pytorch.org/whl/cu112
+paddlepaddle-gpu -i https://pypi.tuna.tsinghua.edu.cn/simple
